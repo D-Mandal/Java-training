@@ -19,7 +19,7 @@ public class Task4 {
                 a = a / 2;
         }
 
-        // Print 1 at the end
+
         System.out.print(a);
     }
     }
