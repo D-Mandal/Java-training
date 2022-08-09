@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff0f27d1-0321-4495-864a-be97a66151e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DAY_2/Assignment_Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY_2/Task_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <recent name="C:\Users\Debolina.Mandal\IdeaProjects\tasks\DAY_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Assignment_Task5">
+  <component name="RunManager" selected="Application.Task_6">
     <configuration name="Assignment_Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY_2.Assignment_Task5" />
       <module name="tasks" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY3_TASK_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY_2.DAY3_TASK_4" />
+    <configuration name="Interestcalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY_2.Interestcalculation" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Holiday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY_2.Holiday" />
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY_2.Task_6" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Interestcalculation" />
         <item itemvalue="Application.Assignment_Task5" />
         <item itemvalue="Application.Assignment_Task_4" />
         <item itemvalue="Application.holiday" />
-        <item itemvalue="Application.Holiday" />
-        <item itemvalue="Application.DAY3_TASK_4" />
       </list>
     </recent_temporary>
   </component>
