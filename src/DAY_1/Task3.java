@@ -1,3 +1,5 @@
+package DAY_1;
+
 import java.util.*;
 public class Task3 {
     public static void main(String[] args) {

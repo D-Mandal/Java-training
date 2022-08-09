@@ -1,3 +1,5 @@
+package DAY_2;
+
 public class DAy2_TAsk1 {
     public static void main( String args[])
     {
