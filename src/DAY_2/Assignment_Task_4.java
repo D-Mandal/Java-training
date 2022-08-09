@@ -1,18 +1,31 @@
 package DAY_2;
 import java.util.Scanner;
 public class Assignment_Task_4 {
-        public static void main(String args[])
-        {
-            Scanner sc = new Scanner(System.in);
-            System.out.println("Sentence in Lowercase:");
-            String str = sc.nextLine();
-            System.out.println("Sentence in Uppercase:");
-            String str1 = sc.nextLine();
 
-            str = str.toUpperCase();  //converts string to uppercase
-            str1 = str1.toLowerCase();
-            System.out.println("Sentence in upper case= "+str);
-            System.out.println("Sentence in lower case= "+str1);
+    public static void main(String[] args) {
+        Scanner Sc=new Scanner(System.in);
+        System.out.println("Enter the String ");
+        String str=Sc.nextLine();
+        StringBuffer newStr=new StringBuffer(str);
+
+        for(int i = 0; i < str.length(); i++) {
+
+
+            if(Character.isLowerCase(str.charAt(i))) {
+
+                newStr.setCharAt(i, Character.toUpperCase(str.charAt(i)));
+            }
+
+            else if(Character.isUpperCase(str.charAt(i))) {
+
+                newStr.setCharAt(i, Character.toLowerCase(str.charAt(i)));
+            }
         }
-
+        System.out.println("New String after Case  : " + newStr);
+    }
 }
+
+
+
+
+
