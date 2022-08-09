@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff0f27d1-0321-4495-864a-be97a66151e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DAY_2/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY_2/Assignment_Task_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY_2/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY_2/Holiday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,16 @@
       <recent name="C:\Users\Debolina.Mandal\IdeaProjects\tasks\DAY_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Holiday">
-    <configuration name="Arraymeanclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arraymeanclass" />
+  <component name="RunManager" selected="Application.Assignment_Task_4">
+    <configuration name="Assignment_Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY_2.Assignment_Task_4" />
       <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2_Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY_2.Day2_Task2" />
-      <module name="tasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Holiday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY_2.Holiday" />
       <module name="tasks" />
@@ -95,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="holiday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY_2.holiday" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment_Task_4" />
+        <item itemvalue="Application.holiday" />
         <item itemvalue="Application.Holiday" />
         <item itemvalue="Application.DAY3_TASK_4" />
         <item itemvalue="Application.DAY2_TASK_3" />
-        <item itemvalue="Application.Arraymeanclass" />
-        <item itemvalue="Application.Day2_Task2" />
       </list>
     </recent_temporary>
   </component>
