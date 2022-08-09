@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff0f27d1-0321-4495-864a-be97a66151e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DAy2_TAsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DAy2_TAsk1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Debolina.Mandal\IdeaProjects\tasks\src" />
+      <recent name="C:\Users\Debolina.Mandal\IdeaProjects\tasks\DAY_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day2_Task2">
     <configuration name="DAy2_TAsk1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAy2_TAsk1" />
       <module name="tasks" />
@@ -43,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
+    <configuration name="Day2_Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Task2" />
       <module name="tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2_Task2" />
         <item itemvalue="Application.DAy2_TAsk1" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
